@@ -98,9 +98,14 @@
           app is designed in a way that it helps the user to take care of their
           plants.
         </p>
-        <a href="https://www.figma.com/deck/rVa24iWDEpeKftZF4yP4qU/Untitled?node-id=1-42&t=ipwi45wvmUtdP7wd-1">
+        <a href="https://docs.google.com/presentation/d/1wofcKQVYe3TVz9ow21pUr4rNN8zosNV-e4j7YNEJz-M/edit#slide=id.p">
           <button class="text-2xl font-bold tracking-wider text-sky-800">
             View Case Study
+          </button>
+        </a>
+        <a href="https://www.figma.com/proto/Eg5PPs5eGZSGBRIL0GqtkU/plantitas?page-id=0%3A1&node-id=1103-96&p=f&viewport=609%2C439%2C0.49&t=icCIfWuLaYoePEbe-1&scaling=min-zoom&content-scaling=fixed">
+          <button class="text-2xl font-bold tracking-wider text-sky-800">
+            View Mobile prototype
           </button>
         </a>
       </div>
@@ -123,6 +128,11 @@
         <a href="https://www.figma.com/deck/WRFv2MXUkmrgjfHhN6B9e3/Nutricionsita---Slides?node-id=1-42&viewport=-34%2C-96%2C0.47&t=IIltKJjogp41ptM5-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1">
           <button class="text-2xl font-bold tracking-wider text-sky-800">
             View Case Study
+          </button>
+        </a>
+        <a href="https://www.figma.com/proto/NBTCI0xRkkLk6CuRENsSBj/Nutricioncita?page-id=0%3A1&node-id=3-69&p=f&viewport=231%2C260%2C0.23&t=tcWjKEWRqoaFgeIR-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=3%3A69&show-proto-sidebar=1">
+          <button class="text-2xl font-bold tracking-wider text-sky-800">
+            View Mobile prototype
           </button>
         </a>
       </div>
@@ -232,9 +242,11 @@
         designer who loves to create beautiful and functional designs. I like anime
         and develop beautiful things.
       </p>
-      <button class="text-2xl font-bold tracking-wider text-sky-800">
-        View Case Study
-      </button>
+      <a href="https://drive.google.com/file/d/1k9PexYY_mm8FS8lcV5-I9UchvizJgOHo/view?usp=sharing" download>
+        <button class="text-2xl font-bold tracking-wider text-sky-800">
+          Download my CV
+        </button>
+      </a>
     </div>
   </div>
 
