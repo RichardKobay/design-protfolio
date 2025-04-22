@@ -170,6 +170,60 @@
         />
       </div>
     </div>
+    <div class="card">
+      <div class="px-8 py-8 space-y-5 md:py-16 md:px-20 md:w-1/2">
+        <h4 class="project-title item">Nutricionsita</h4>
+        <p class="pr-12 font-work_sans">
+          Designed an app that helps people to take care of their nutrition. The
+          app is designed in a way that it helps the user to take care of their
+          health and nutrition. The app is useful and easy to use, not to mention that is pretty beautiful.
+        </p>
+        <a href="https://www.figma.com/deck/WRFv2MXUkmrgjfHhN6B9e3/Nutricionsita---Slides?node-id=1-42&viewport=-34%2C-96%2C0.47&t=IIltKJjogp41ptM5-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1">
+          <button class="text-2xl font-bold tracking-wider text-sky-800">
+            View Case Study
+          </button>
+        </a>
+        <br>
+        <a href="https://www.figma.com/proto/NBTCI0xRkkLk6CuRENsSBj/Nutricioncita?page-id=25%3A435&node-id=25-436&p=f&viewport=25%2C296%2C0.12&t=AJiRAEB2Hw89Xkmq-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=25%3A436">
+          <button class="text-2xl font-bold tracking-wider text-sky-800">
+            View web prototype
+          </button>
+        </a>
+      </div>
+      <div class="card-image">
+        <img
+          class="object-cover w-full h-48 md:h-96"
+          src="./assets/nutricionsita.png"
+        />
+      </div>
+    </div>
+    <div class="card">
+      <div class="px-8 py-8 space-y-5 md:py-16 md:px-20 md:w-1/2">
+        <h4 class="project-title item">Nutricionsita</h4>
+        <p class="pr-12 font-work_sans">
+          Designed an app that helps people to take care of their nutrition. The
+          app is designed in a way that it helps the user to take care of their
+          health and nutrition. The app is useful and easy to use, not to mention that is pretty beautiful.
+        </p>
+        <a href="https://www.figma.com/deck/WRFv2MXUkmrgjfHhN6B9e3/Nutricionsita---Slides?node-id=1-42&viewport=-34%2C-96%2C0.47&t=IIltKJjogp41ptM5-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1">
+          <button class="text-2xl font-bold tracking-wider text-sky-800">
+            View Case Study
+          </button>
+        </a>
+        <br>
+        <a href="https://www.figma.com/proto/NBTCI0xRkkLk6CuRENsSBj/Nutricioncita?page-id=61%3A1133&node-id=61-1134&p=f&viewport=25%2C92%2C0.21&t=KU3zLWkOfqywW6nJ-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=61%3A1134">
+          <button class="text-2xl font-bold tracking-wider text-sky-800">
+            View iPad prototype
+          </button>
+        </a>
+      </div>
+      <div class="card-image">
+        <img
+          class="object-cover w-full h-48 md:h-96"
+          src="./assets/nutricionsita.png"
+        />
+      </div>
+    </div>
   </div>
 
   <div class="banner-1" id="testimonial">
