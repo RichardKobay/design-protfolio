@@ -119,6 +119,33 @@
 
     <div class="card">
       <div class="px-8 py-8 space-y-5 md:py-16 md:px-20 md:w-1/2">
+        <h4 class="project-title item">Plantitas (web)</h4>
+        <p class="pr-12 font-work_sans">
+          Designed an app that helps people to take care of their plants. The
+          app is designed in a way that it helps the user to take care of their
+          plants.
+        </p>
+        <a href="https://docs.google.com/presentation/d/1M0CvtzsF6AyvKVO1tRUp3K-FGj7i94G_FZoPBnFvnEA/edit?usp=sharing">
+          <button class="text-2xl font-bold tracking-wider text-sky-800">
+            View Case Study
+          </button>
+        </a>
+        <a href="https://www.figma.com/proto/hVvlAFczw5SdJyrxg1Qvy5/Plantititas?page-id=68%3A124&node-id=72-400&p=f&viewport=25%2C455%2C0.12&t=fb2lZS8LSLPk9t0Q-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=72%3A400">
+          <button class="text-2xl font-bold tracking-wider text-sky-800">
+            View web prototype
+          </button>
+        </a>
+      </div>
+      <div class="bg-green-100 card-image">
+        <img
+          class="object-cover w-full h-72 md:h-96"
+          src="./assets/plantitas.png"
+        />
+      </div>
+    </div>
+
+    <div class="card">
+      <div class="px-8 py-8 space-y-5 md:py-16 md:px-20 md:w-1/2">
         <h4 class="project-title item">Nutricionsita</h4>
         <p class="pr-12 font-work_sans">
           Designed an app that helps people to take care of their nutrition. The
